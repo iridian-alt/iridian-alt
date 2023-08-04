@@ -15,8 +15,6 @@ My interests include:
 
 ### I have a blog and a portfolio, you can foun it in the url below.
 
-irinah.com
-
 <!--
 **iridian-alt/iridian-alt** is a ✨ _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
