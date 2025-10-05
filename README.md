@@ -7,11 +7,10 @@ I’m  a  WEB  and  software  developer  with  5  years  ofexperience  developin
 - 😄 I’m currently working as a web developer.
 
 My interests include:
-- 🐘PHP
-- 🐘LARAVEL
-- 🐍PYTHON
-- 🎁JAVASCRIPT
-- 🚡WORDPRESS
+- React JS
+- AEM
+- JAVASCRIPT
+- Coming soon JAVA
 
 ### I have a blog and a portfolio, you can foun it in the url below.
 
@@ -32,10 +31,6 @@ My interests include:
 - 🐍PYTHON
 - 🎁JAVASCRIPT
 - 🚡WORDPRESS
-
-### I have a blog and a portfolio, you can foun it in the url below.
-
-irinah.com
 
 -->
 
